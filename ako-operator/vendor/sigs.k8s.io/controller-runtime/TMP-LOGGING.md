@@ -167,3 +167,5 @@ logic.
   logging the object directly (e.g. `log.Info("reconciling pod", "pod",
   req.NamespacedName)`).  This ends up having a similar effect to logging
   the object directly.
+
+<!-- Auto-update: 2025-10-06T18:30:36.976046 -->
